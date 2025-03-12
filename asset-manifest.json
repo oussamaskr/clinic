@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/clinic/static/css/main.881dd71c.css",
+    "main.js": "/clinic/static/js/main.223a82b0.js",
+    "static/media/2148980721.jpg": "/clinic/static/media/2148980721.5287e821813aff89ae4d.jpg",
+    "static/media/17818.jpg": "/clinic/static/media/17818.25fd33f79391bd842788.jpg",
+    "static/media/46743.jpg": "/clinic/static/media/46743.1ba939f3d1b45bbe1fa5.jpg",
+    "static/media/eye care.jpg": "/clinic/static/media/eye care.5e8ee7052c7f7a4f6ed7.jpg",
+    "static/media/dermatology.jpg": "/clinic/static/media/dermatology.dae3c7be0645dfbd4ee6.jpg",
+    "static/media/dental care.jpg": "/clinic/static/media/dental care.37f2d1491301ef644987.jpg",
+    "static/media/footer.jpg": "/clinic/static/media/footer.d57dd55886a43b87fd3e.jpg",
+    "static/media/gynecologue.jpg": "/clinic/static/media/gynecologue.f2e7ce86a4d863273a9d.jpg",
+    "static/media/89.jpg": "/clinic/static/media/89.7fe78307ddc9d32cc220.jpg",
+    "static/media/orthopedics.jpg": "/clinic/static/media/orthopedics.60e4eb0cb424abfe206e.jpg",
+    "static/media/2151442173.jpg": "/clinic/static/media/2151442173.0e713180e118c9578654.jpg",
+    "static/media/2150829879.jpg": "/clinic/static/media/2150829879.ddc6727ca8e5937e10eb.jpg",
+    "static/media/operation.jpg": "/clinic/static/media/operation.c4987176ca43778b88d8.jpg",
+    "static/media/2148538276.jpg": "/clinic/static/media/2148538276.7cd552667e28d660b185.jpg",
+    "static/media/2148854064.jpg": "/clinic/static/media/2148854064.eea03fb41280959c34f4.jpg",
+    "static/media/2188.jpg": "/clinic/static/media/2188.fe67b8076d494080db32.jpg",
+    "static/media/54.jpg": "/clinic/static/media/54.c20c3c12da7f53510902.jpg",
+    "static/media/2176.jpg": "/clinic/static/media/2176.73e394412b582d7386fa.jpg",
+    "static/media/2149112510.jpg": "/clinic/static/media/2149112510.ff75c752e05e40798094.jpg",
+    "static/media/medium-doctor-posing-portrait-photo (1).jpg": "/clinic/static/media/medium-doctor-posing-portrait-photo (1).8c9fe021de97c6cd98db.jpg",
+    "static/media/853.jpg": "/clinic/static/media/853.1115e42a602cb186e047.jpg",
+    "static/media/885.jpg": "/clinic/static/media/885.12df1d62b695913eac03.jpg",
+    "static/media/29791.jpg": "/clinic/static/media/29791.6036e47c2ef48f1ae34f.jpg",
+    "index.html": "/clinic/index.html",
+    "main.881dd71c.css.map": "/clinic/static/css/main.881dd71c.css.map",
+    "main.223a82b0.js.map": "/clinic/static/js/main.223a82b0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.881dd71c.css",
+    "static/js/main.223a82b0.js"
+  ]
+}
