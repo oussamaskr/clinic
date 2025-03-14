@@ -8,7 +8,6 @@ import Footer from './Conponents/Footer/Footer';
 import Blog from './Pages/Blog';
 
 function App() {
-  console.log(Navbar, Aboutus, Home);
 
   return (
     <>
